@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ordenador>
+
+    <componentes>
+        <placa_base nombre="B450M" fabricante="MSI" precio="80€">
+
+            <caracteristicas >Admite AMD Ryzen ™ / Ryzen ™ de 1.a, 2.a y 3.a generación con gráficos Radeon ™ Vega y procesadores de escritorio AMD Ryzen ™ de 2.a generación con gráficos Radeon ™ / Athlon ™ con Radeon ™ Vega Graphics para Socket AM4
+                Admite memoria DDR4, hasta 4133 (OC) MHz
+
+                Diseño de disipador térmico extendido: MSI PWM extendido y diseño de circuito mejorado garantiza que incluso los procesadores de alta gama funcionen a toda velocidad.
+                Experiencia de juego increíblemente rápida: 1x TURBO M.2, AMD Turbo USB 3.2 GEN2, tecnología Store MI
+
+                Core Boost: con diseño premium y diseño de potencia totalmente digital para admitir más núcleos y proporcionar un mejor rendimiento.
+                DDR4 Boost: tecnología avanzada para entregar señales de datos puros para el mejor rendimiento y estabilidad del juego
+
+                MULTI-GPU: con ranura PCI-E STEEL ARMOR. Admite AMD Crossfire ™ de 2 vías
+
+                Botón Flash BIOS: simplemente use una llave USB para flashear cualquier BIOS en segundos, sin instalar una CPU, memoria o tarjeta gráfica.
+                </caracteristicas>
+
+         </placa_base>
+             
+        <procesador nombre="I5" fabricante="Intel" precio="150€">
+
+            <caracteristicas >
+                    Especificaciones
+                    General
+                    CPU Model Intel Core i5-9600K
+                    CPU Socket LGA 1151
+                    Unlocked Yes
+                    Performance
+                    Number of Cores 6
+                    Number of Threads 6
+                    Base Clock Speed 3.7 GHz
+                    Maximum Boost Speed 4.6 GHz
+                    L3 Cache 9 MB
+                    Memory Support
+                    Memory Support DDR4 2666 MHz
+                    Channel Architecture Dual Channel
+                    Power
+                    Thermal Design Power (TDP) 95 W
+                    Thermal Solution None
+                    Technology
+                    AES Support Yes
+                    Virtualization Yes: Intel VT-d
+                    Integrated Graphics
+                    Graphics Chipset Intel UHD Graphics 630
+                    Base Clock Speed 1150 MHz
+                    Intel
+                    Optane Memory Support Yes
+                    vPro Support Yes
+                    Performance Technologies Turbo Boost 2.0, Turbo Boost Max 3.0
+                    Security Technologies Device Protection with Boot Guard
+                </caracteristicas>
+
+         </procesador>
+        <fuente nombre="Nfortec" fabricante="Nfortec" precio="60€">
+
+            <caracteristicas >
+                    Características:
+                    Certificación 80 Plus Bronze
+
+                    Con un mínimo de 85% de eficiencia, las fuentes de alimentación de la serie Scutum han sido certificadas con el sello 80 Plus Bronze. Ya no sólo se trata de ofrecer un mínimo de estabilidad sino, también, de ser respetuosos con el medio ambiente.
+
+                    Ventilación adaptada a cada momento
+
+                    A pesar de su gran tamaño, 140 milímetros, el ventilador incorporado en la serie Scutum ha sido termoregulado con el fin de ofrecer las prestaciones adecuadas en el momento adecuado. Esto permitirá ofrecer tanto el rendimiento necesario en los momentos de máxima exigibilidad y como el mínimo nivel de sonoridad en los momentos en los que no necesitemos un alto rendimiento de nuestra fuente de alimentación.
+
+                    Personalización y diseño
+
+                    Aunque únicamente se trata de una fuente de alimentación, es importante que cada usuario pueda personalizar cada uno de los componentes de su pc. Es por esto que hemos añadido la posibilidad de modificar su aspecto con dos stickers en acabados diferentes.
+
+                    Especificaciones:
+                    AC Input: 100-240VAC 12-6A 50-60Hz
+                    Output Voltage: 3.3V: Min. 0.5A, Max. 20A
+                    5V: Min. 0.5A, Max. 20A
+                    +12V1: Min. 0.5A, Max. 27A
+                    +12V2: Min. 0.5A, Max. 27A
+                </caracteristicas>
+                
+
+         </fuente>
+         
+
+    </componentes>
+
+
+
+
+</ordenador>

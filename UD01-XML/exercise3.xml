@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<horario>
+    <lunes>
+
+        <HORA1>
+            <asignatura nombre="Programación" profesor="Chema" aula="DAW1" />
+
+        </HORA1>
+         <HORA2>
+            <asignatura nombre="Programación" profesor="Chema" aula="DAW1" />
+
+        </HORA2>
+        <HORA3>
+            <asignatura nombre="Programación" profesor="Chema" aula="DAW1" />
+
+        </HORA3>
+        <HORA4>
+            <asignatura nombre="Sistemas informáticos" profesor="Andres" aula="DAW1" />
+
+        </HORA4>
+        <HORA5>
+            <asignatura nombre="Sistemas informáticos" profesor="Andres" aula="DAW1" />
+
+        </HORA5>
+        <HORA6>
+            <asignatura nombre="Formacion y orientacion laboral" profesor="Elena" aula="DAW1" />
+
+        </HORA6>
+    </lunes>
+
+        <martes>
+
+        <HORA1>
+            <asignatura nombre="Base de datos" profesor="Reyes" aula="DAW1" />
+
+        </HORA1>
+         <HORA2>
+            <asignatura nombre="Base de datos" profesor="Reyes" aula="DAW1" />
+
+        </HORA2>
+        <HORA3>
+            <asignatura nombre="Base de datos" profesor="Reyes" aula="DAW1" />
+
+        </HORA3>
+        <HORA4>
+            <asignatura nombre="Entorno de desarrollo" profesor="Reyes" aula="DAW1" />
+
+        </HORA4>
+        <HORA5>
+            <asignatura nombre="Entorno de desarrollo" profesor="Reyes" aula="DAW1" />
+
+        </HORA5>
+        <HORA6>
+            <asignatura nombre="Lenguaje de marcas" profesor="Joserra" aula="DAW1" />
+
+        </HORA6>
+    </martes>
+ <Miercoles>
+
+        <HORA1>
+            <asignatura nombre="Lenguaje de marcas" profesor="Joserra" aula="DAW1" />
+
+        </HORA1>
+         <HORA2>
+            <asignatura nombre="Lenguaje de marcas" profesor="Joserra" aula="DAW1" />
+
+        </HORA2>
+        <HORA3>
+            <asignatura nombre="Programacion" profesor="Chema" aula="DAW1" />
+
+        </HORA3>
+        <HORA4>
+            <asignatura nombre="Programación" profesor="Chema" aula="DAW1" />
+
+        </HORA4>
+        <HORA5>
+            <asignatura nombre="Sistemas Informaticos" profesor="Andres" aula="DAW1" />
+
+        </HORA5>
+        <HORA6>
+            <asignatura nombre="Sistemas informaticos" profesor="Andres" aula="DAW1" />
+
+        </HORA6>
+    </Miercoles>
+    <jueves>
+
+        <HORA1>
+            <asignatura nombre="Lenguaje de marcas" profesor="Joserra" aula="DAW1" />
+
+        </HORA1>
+         <HORA2>
+            <asignatura nombre="Programacion" profesor="Joserra" aula="DAW1" />
+
+        </HORA2>
+        <HORA3>
+            <asignatura nombre="Programacion" profesor="Chema" aula="DAW1" />
+
+        </HORA3>
+        <HORA4>
+            <asignatura nombre="Programación" profesor="Chema" aula="DAW1" />
+
+        </HORA4>
+        <HORA5>
+            <asignatura nombre="Formación y orientacion laboral" profesor="Elena" aula="DAW1" />
+
+        </HORA5>
+        <HORA6>
+            <asignatura nombre="Formación y orientacion laboral" profesor="Elena" aula="DAW1" />
+
+        </HORA6>
+
+    </jueves>
+   
+        
+      <Viernes>
+
+        <HORA1>
+            <asignatura nombre="Entornos" profesor="Reyes" aula="DAW1" />
+
+        </HORA1>
+         <HORA2>
+            <asignatura nombre="BDD" profesor="Reyes" aula="DAW1" />
+
+        </HORA2>
+        <HORA3>
+            <asignatura nombre="BDD" profesor="Reyes" aula="DAW1" />
+
+        </HORA3>
+        <HORA4>
+            <asignatura nombre="BDD" profesor="Reyes" aula="DAW1" />
+
+        </HORA4>
+        <HORA5>
+            <asignatura nombre="Sistemas Informaticos" profesor="Andrés" aula="DAW1" />
+
+        </HORA5>
+        <HORA6>
+            <asignatura nombre="Sistemas Informaticos" profesor="Andrés" aula="DAW1" />
+
+        </HORA6>
+
+    </Viernes>
+
+
+
+</horario>
