@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aranda [
+    <!ELEMENT aranda (cabecera, tabla)>
+    <!ELEMENT cabecera (titulo,fecha, contenido, descripcion)>
+    <!ELEMENT titulo >
+    <!ELEMENT contenido >
+    <!ELEMENT descripcion >
+    <!ELEMENT fecha >
+    <!ELEMENT tabla (region+, trimestre, libros_vendidos)>
+    <!ELEMENT region (norte | centro | sur)>
+    <!ELEMENT norte (libro| trimestre)+>
+    <!ELEMENT centro (libro|trimestre )*>
+    <!ELEMENT sur (trimestre| libro)>
+    <!ELEMENT trimestre >
+    <!ELEMENT lib )>
+    <!ELEMENT trimestre >
+    <!ELEMENT libros_vendidos >
+]>
+
+<aranda>
+  <cabecera>
+    <titulo>Ediciones Aranda</titulo>
+    <contenido>Informe ventas</contenido>
+    <descripcion> informe de ventas para las regiones Norte, Centro y Sur</descripcion>
+    <fecha> 30/12/2009</fecha>
+  </cabecera>
+  <tabla>
+    <region>
+      <norte>
+        <trimestre>1</trimestre>
+          <lib>24000</lib>
+        <trimestre>2</trimestre>
+          <lib>38600</lib>
+        <trimestre>3</trimestre>
+          <lib></lib>
+        <trimestre>4</trimestre>
+          <lib></lib>
+      </norte>
+    </region>
+    <region>
+      <centro>
+        <trimestre>1</trimestre>
+          <lib></lib>
+        <trimestre>2</trimestre>
+          <lib>16080</lib>
+        <trimestre>3</trimestre>
+          <lib>25000</lib>
+        <trimestre>4</trimestre>
+          <lib>29000</lib>
+      </centro>
+    </region>
+    <region>
+      <sur>
+        <trimestre>1</trimestre>
+          <lib>27000</lib>
+        <trimestre>2</trimestre>
+          <lib>31400</lib>
+        <trimestre>3</trimestre>
+          <lib>40100</lib>
+        <trimestre>4</trimestre>
+          <lib>30000</lib>
+      </sur>
+    </region>
+    <trimestre>Trimestre</trimestre>
+    <libros_vendidos>Libros vendidos</libros_vendidos>
+  </tabla>
+</aranda>
