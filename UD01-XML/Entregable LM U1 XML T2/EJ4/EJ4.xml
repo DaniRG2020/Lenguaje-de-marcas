@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder orderid="110"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="EJ4.xsd">
+
+
+    <orderperson> Hola </orderperson>
+    <shipto>
+        <name>Manuel</name>
+        <address>Calle Pangolin</address>
+        <city> Sevilla</city>
+        <country>Españita</country>
+    </shipto>
+    <item>
+        <titulo>Jarra</titulo>
+        <note>Notas</note>
+        <quantity>10</quantity>
+        <price>10.5</price>
+
+    </item>
+
+</shiporder>
