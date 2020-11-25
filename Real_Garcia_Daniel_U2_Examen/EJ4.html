@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<title>Ejercicio4</title>
+
+	</head>
+	<body>
+		
+		<fieldset style="border-color: blue">
+			<form method="post" action="destino.html">
+				<h1>Reservation Request</h1>
+				<fieldset>
+					<legend style="color: blue">General Information</legend>
+					<table>
+						<tr>
+							<td>Arrival date</td>
+							<td>
+								<input type="date" name="date">
+							</td>
+							<td>Arrival date is invalid</td>
+						</tr>
+						<tr>
+							<td>Nights</td>
+							<td><input type="number" name="noches" placeholder="Noches"></td>
+							<td>Noches debe ser un numero</td>
+						</tr>
+						<tr>
+							<td>Adultos</td>
+							<td>
+								<select>
+									<option>1</option>
+									<option>2</option>
+									<option>3</option>
+								</select>
+							</td>
+						</tr>
+						<tr>
+							<td>Niños</td>
+							<td>
+								<select>
+									<option>1</option>
+									<option>2</option>
+									<option>3</option>
+								</select>
+
+							</td>
+						</tr>
+					</table>
+				</fieldset>
+				<fieldset>
+					<legend style="color:blue">Preference</legend>
+					<table>
+						<tr>
+							<td>Room type</td>
+							<td>
+								<input type="checkbox" name="standard">Standard
+								<input type="checkbox" name="Business">Business
+								<input type="checkbox" name="suite">Suite
+							</td>
+						</tr>
+						<tr>
+							<td>Bed type</td>
+							<td>
+								<input type="checkbox" name="king">king
+								<input type="checkbox" name="double">double double
+								<input type="checkbox" name="smoking">smoking
+							</td>
+						</tr>
+					</table>
+				</fieldset>
+				<fieldset>
+					<legend style="color:blue">contact information</legend>
+					<table>
+						<tr>
+							<td> name </td>
+							<td><input type="text" name="nombre" required></td>
+							<td>el nombre es obligatorio</td>
+						</tr>
+						<tr>
+							<td> Email </td>
+							<td><input type="email" name="email" required></td>
+							<td>el email es invalido</td>
+						</tr>
+						<tr>
+							<td> Phone </td>
+							<td><input type="tel" name="tel" required></td>
+							<td>Numero de telefono invalido</td>
+						</tr>
+					</table>
+				</fieldset>
+				<input type="submit" name="enviar">
+				<input type="reset" name="limpiar">
+			</form>
+		</fieldset>
+	</body>
+</html>

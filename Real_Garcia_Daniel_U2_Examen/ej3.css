@@ -1,0 +1,5 @@
+table,tr,th,td{
+	border-style: dashed;
+	border-color: red;
+	border: 3;
+}
