@@ -1,0 +1,5 @@
+En la versión inglesa (poema.html), ¿por qué los últimos 5 párrafos se muestran de forma diferente que los 2 primeros?. Contestar en el fichero ejercicio2.txt que debes dejar en esa carpeta.
+
+Porque los dos primeros parrafos usan el p.verse que tienen atributos distintos al resto de parrafos.
+Como por ejemplo el margen de los dos primeros parrafos están con un margen izquierdo de 60 pixeles.
+Mientras que el resto de etiquetas <p> tienen aplicado un margen izquierdo de solo 15 px .

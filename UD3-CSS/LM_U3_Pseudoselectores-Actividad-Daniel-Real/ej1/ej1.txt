@@ -1,0 +1,27 @@
+
+
+/* Body */
+cambiar el color de fondo del body
+
+body {background-color: tan}
+
+/* Headers */
+Cambiar el color de todos los h1 y el tamaño de la fuente a marron
+h1 {color:maroon; font-size:20pt}
+
+/* HR (Hard Rule = line) */
+cambia el color de la linea divisoria
+hr {color:navy}
+
+/* Paragraphs */
+esta afecta a los parrafos y les aplica el tamaño de letra y un margen a la izquierda
+p {font-size:12pt; margin-left: 15px}
+
+es lo mismo que la anterior pero añadiendole una clase para diferenciar este parrafo del anterior
+p.verse {color:maroon; margin-left: 60px}
+
+/* Links */
+a:link     {color:green} --> se utiliza para darle estilos a los enlaces, en este caso de color verde.
+a:visited  {color:yellow} --> cambiar el color del enlace una vez se haya entrado a amarillo.
+a:hover    {color:black} --> al pasar el raton por encima del enlace cambiar el color de la fuente a negro.
+a:active   {color:blue} --> al clickar sobre el enlace este cambia de color al azul.
